@@ -1,0 +1,245 @@
+PS C:\Users\OMOLP091\Documents\GitHub\traffic-repository\Testing 1 - Emergency 1 US Scenario> & C:/Users/OMOLP091/anaconda3/python.exe "c:/Users/OMOLP091/Documents/GitHub/traffic-repository/Testing 1 - Emergency 1 US Scenario/OCRVideoReaderTimer.py"
+Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+Text detected in frame_120.png:
+Text: Vehicles in Left Lane: 2
+Text: Vehicles in Right Lane:
+Text: 1
+Text: Traffic Intensity: Regular
+Text: Traffic Intensity: Regular
+Text: output_result:
+Text: 0
+Text: Vehicle 0.42
+Text: Vehicle 0.86
+Text detected in frame_121.png:
+Text: Vehicles in Left Lane:
+Text: 1
+Text: Vehicles in Right Lane: 3
+Text: Traffic Intensity: Regular
+Text: Traffic Intensity: Emergency
+*********************
+EMERGENCY text found!
+Text: Traffic Intensity: Emergency, Bounding Box: [[814, 69], [1266, 69], [1266, 118], [814, 118]]
+Audrino PLC Input: Emergency
+*********************
+Text: output_result:
+Text: 2
+Text: Vehicie
+Text: Vehicle 0.76
+Text: Vehicle
+Text: Vehicle 0.84
+Text detected in frame_150.png:
+Text: Vehicles in Left Lane:
+Text: 1
+Text: Vehicles in Right Lane:
+Text: 1
+Text: Traffic Intensity: Regular
+Text: Traffic Intensity: Regular
+Text: output_result:
+Text: 0
+Text: Vehicle
+Text: Vehicle 0.
+Text detected in frame_180.png:
+Text: Vehicles in Left Lane:
+Text: 1
+Text: Vehicles in Right Lane: 0
+Text: Traffic Intensity: Regular
+Text: Traffic Intensity: Regular
+Text: output_result:
+Text: 0
+Text: Vehicle 0.74
+Text detected in frame_210.png:
+Text: Vehicles in Left Lane: 0
+Text: Vehicles in Right Lane: 0
+Text: Traffic Intensity: Regular
+Text: Traffic Intensity: Regular
+Text: output_result:
+Text: 0
+Text detected in frame_240.png:
+Text: Vehicles in Left Lane:
+Text: 1
+Text: Vehicles in Right Lane: 0
+Text: Traffic Intensity: Regular
+Text: Traffic Intensity: Regular
+Text: output_result:
+Text: 0
+Text detected in frame_270.png:
+Text: Vehicles in Left Lane:
+Text: 1
+Text: Vehicles in Right Lane: 3
+Text: Traffic Intensity: Regular
+Text: Traffic Intensity: Emergency
+*********************
+EMERGENCY text found!
+Text: Traffic Intensity: Emergency, Bounding Box: [[814, 69], [1266, 69], [1266, 118], [814, 118]]
+Audrino PLC Input: Emergency
+*********************
+Text: output_result:
+Text: 2
+Text: Vehicie
+Text: Vehicle 0.76
+Text: Vehicle
+Text: Vehicle 0.84
+Text detected in frame_30.png:
+Text: Vehicles in Left Lane: 0
+Text: Vehicles in Right Lane:
+Text: 1
+Text: Traffic Intensity: Regular
+Text: Traffic Intensity: Regular
+Text: output_result:
+Text: 0
+Text: Vehicie 0.70
+Text detected in frame_300.png:
+Text: Vehicles in Left Lane: 2
+Text: Vehicles in Right Lane: 2
+Text: Traffic Intensity: Regular
+Text: Traffic Intensity: Regular
+Text: output_result:
+Text: 0
+Text: 0.69
+Text: Vehiclo 0.83'
+Text: Vehicle 0.90
+Text detected in frame_330.png:
+Text: Vehicles in Left Lane: 2
+Text: Vehicles in Right Lane: 2
+Text: Traffic Intensity: Regular
+Text: Traffic Intensity: Regular
+Text: output_result:
+Text: 0
+Text: 0.71
+Text: Vehicle 0.83
+Text: 0.58
+Text detected in frame_360.png:
+Text: Vehicles in Left Lane: 2
+Text: Vehicles in Right Lane: 0
+Text: Traffic Intensity: Regular
+Text: Traffic Intensity: Regular
+Text: output_result:
+Text: 0
+Text: 0.76]
+Text detected in frame_390.png:
+Text: Vehicles in Left Lane: 3
+Text: Vehicles in Right Lane:
+Text: 2
+Text: Traffic Intensity: Emergency
+*********************
+EMERGENCY text found!
+Text: Traffic Intensity: Emergency, Bounding Box: [[4, 68], [456, 68], [456, 117], [4, 117]]
+Audrino PLC Input: Emergency
+*********************
+Text: Lane
+Text: 1
+Text: Traffic Intensity: Regular
+Text: output_result:
+Text: Cnich707/9
+Text: Vchicle 0.76
+Text: Vehicle 0.52
+Text: Vehicle 0.91
+Text: Vehicl
+Text: 0.92
+Text: bodel
+Text detected in frame_420.png:
+Text: Vehicles in Left Lane: 2
+Text: Vehicles in Right Lane:
+Text: 1
+Text: Traffic Intensity: Regular
+Text: Traffic Intensity: Regular
+Text: output_result:
+Text: 0
+Text: Vehick 0.64
+Text detected in frame_450.png:
+Text: Vehicles in Left Lane:
+Text: 1
+Text: Vehicles in Right Lane:
+Text: 1
+Text: Traffic Intensity: Regular
+Text: Traffic Intensity: Regular
+Text: output_result:
+Text: 0
+Text: 0.83
+Text detected in frame_480.png:
+Text: Vehicles in Left Lane: 2
+Text: Vehicles in Right Lane: 0
+Text: Traffic Intensity: Regular
+Text: Traffic Intensity: Regular
+Text: output_result:
+Text: 0
+Text: Vehicle 0.70
+Text: Vehicle
+Text detected in frame_510.png:
+Text: Vehicles in Left Lane: 0
+Text: Vehicles in Right Lane: 2
+Text: Traffic Intensity: Regular
+Text: Traffic Intensity: Regular
+Text: output_result:
+Text: 0
+Text: Vehicle 0.53
+Text: hicle 0.82
+Text detected in frame_540.png:
+Text: Vehicles in Left Lane:
+Text: 1
+Text: Vehicles in Right Lane: 2
+Text: Traffic Intensity: Regular
+Text: Traffic Intensity: Regular
+Text: output_result:
+Text: 0
+Text: Vehicle 0.75
+Text: Vehicle (86
+Text detected in frame_570.png:
+Text: Vehicles in Left Lane:
+Text: 1
+Text: Vehicles in Right Lane: 2
+Text: Traffic Intensity: Regular
+Text: Traffic Intensity: Regular
+Text: output_result:
+Text: 0
+Text: Vchicle 0.61]
+Text: Vchicle 0.89
+Text detected in frame_60.png:
+Text: Vehicles in Left Lane:
+Text: 1
+Text: Vehicles in Right Lane:
+Text: 1
+Text: Traffic Intensity: Regular
+Text: Traffic Intensity: Regular
+Text: output_result:
+Text: 0
+Text: Vchick 0.67
+Text detected in frame_600.png:
+Text: Vehicles in Left Lane: 2
+Text: Vehicles in Right Lane: 0
+Text: Traffic Intensity: Regular
+Text: Traffic Intensity: Regular
+Text: output_result:
+Text: 0
+Text: 0.90'
+Text: Vehicle 0.75
+Text detected in frame_601.png:
+Text: Vehicles in Left Lane:
+Text: 1
+Text: Vehicles in Right Lane: 3
+Text: Traffic Intensity: Regular
+Text: Traffic Intensity: Emergency
+*********************
+EMERGENCY text found!
+Text: Traffic Intensity: Emergency, Bounding Box: [[814, 69], [1266, 69], [1266, 118], [814, 118]]
+Audrino PLC Input: Emergency
+*********************
+Text: output_result:
+Text: 2
+Text: Vehicie
+Text: Vehicle 0.76
+Text: Vehicle
+Text: Vehicle 0.84
+Text detected in frame_90.png:
+Text: Vehicles in Left Lane: 2
+Text: Vehicles in Right Lane:
+Text: 1
+Text: Traffic Intensity: Regular
+Text: Traffic Intensity: Regular
+Text: output_result:
+Text: 0
+Text: Mc
+Text: Vehicle 0.81
+Text: Vehicie
+ OUTPUT ::: [('EMERGENCY', 17.743746280670166), ('EMERGENCY', 68.16583919525146), ('EMERGENCY', 108.78328323364258), ('EMERGENCY', 237.4099817276001)]        
+PS C:\Users\OMOLP091\Documents\GitHub\traffic-repository\Testing 1 - Emergency 1 US Scenario> 
